@@ -1,0 +1,11 @@
+livekit-agents[silero]~=1.6
+livekit-plugins-google
+livekit-plugins-groq
+python-dotenv
+numpy
+sentence-transformers
+pypdf
+fastapi
+uvicorn[standard]
+httpx
+google-genai

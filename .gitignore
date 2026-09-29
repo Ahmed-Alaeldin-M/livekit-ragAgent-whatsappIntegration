@@ -1,0 +1,25 @@
+# Local credentials and environment files
+.env
+.env.*
+env*.example
+# Python environment and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Local scratch tests
+/test.py
+/test_groqTTS.ipynb
+
+# Generated index and local runtime output
+/index/
+*.log
+*.wav
+
+# Local caches and OS metadata
+.cache/
+.DS_Store
+Thumbs.db
